@@ -1,0 +1,12 @@
+C:\Users\Humeyra\source\repos\KNNDataMining\KNNDataMining\bin\Debug\KNNDataMining.exe.config
+C:\Users\Humeyra\source\repos\KNNDataMining\KNNDataMining\bin\Debug\KNNDataMining.exe
+C:\Users\Humeyra\source\repos\KNNDataMining\KNNDataMining\bin\Debug\KNNDataMining.pdb
+C:\Users\Humeyra\source\repos\KNNDataMining\KNNDataMining\bin\Debug\ExcelDataReader.dll
+C:\Users\Humeyra\source\repos\KNNDataMining\KNNDataMining\bin\Debug\ExcelDataReader.xml
+C:\Users\Humeyra\source\repos\KNNDataMining\KNNDataMining\obj\Debug\KNNDataMining.csprojResolveAssemblyReference.cache
+C:\Users\Humeyra\source\repos\KNNDataMining\KNNDataMining\obj\Debug\KNNDataMining.Form1.resources
+C:\Users\Humeyra\source\repos\KNNDataMining\KNNDataMining\obj\Debug\KNNDataMining.Properties.Resources.resources
+C:\Users\Humeyra\source\repos\KNNDataMining\KNNDataMining\obj\Debug\KNNDataMining.csproj.GenerateResource.Cache
+C:\Users\Humeyra\source\repos\KNNDataMining\KNNDataMining\obj\Debug\KNNDataMining.csproj.CoreCompileInputs.cache
+C:\Users\Humeyra\source\repos\KNNDataMining\KNNDataMining\obj\Debug\KNNDataMining.exe
+C:\Users\Humeyra\source\repos\KNNDataMining\KNNDataMining\obj\Debug\KNNDataMining.pdb
